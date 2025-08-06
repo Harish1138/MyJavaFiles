@@ -1,4 +1,4 @@
-package A.java.Day1;
+package A.java.Day2;
 import java.util.*;
 public class palindrome_number_with_function {
     public static void palindrome(int n) {

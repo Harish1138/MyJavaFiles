@@ -1,4 +1,4 @@
-package A.java.Day1;
+package A.java.Day2;
 import java.util.*;
 // Palindrome Number Without function
 public class palindrome_number_without_function {

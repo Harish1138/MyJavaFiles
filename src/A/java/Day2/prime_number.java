@@ -1,4 +1,4 @@
-package A.java.Day1;
+package A.java.Day2;
 import java.util.*;
 public class prime_number {
     public static boolean isPrime(int n) {
