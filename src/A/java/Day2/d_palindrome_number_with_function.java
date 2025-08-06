@@ -1,6 +1,6 @@
 package A.java.Day2;
 import java.util.*;
-public class palindrome_number_with_function {
+public class d_palindrome_number_with_function {
     public static void palindrome(int n) {
         int m=n;
         int rev=0;

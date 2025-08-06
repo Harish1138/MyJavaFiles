@@ -1,7 +1,7 @@
 package A.java.Day2;
 import java.util.*;
 // Palindrome Number Without function
-public class palindrome_number_without_function {
+public class c_palindrome_number_without_function {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.print("Enter the number: ");

@@ -1,6 +1,6 @@
 package A.java.Day2;
 import java.util.*;
-public class prime_number {
+public class b_prime_number {
     public static boolean isPrime(int n) {
         if(n<2){
             return false;

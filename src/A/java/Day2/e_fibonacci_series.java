@@ -1,6 +1,6 @@
 package A.java.Day2;
 import java.util.*;
-public class fibonacci_series {
+public class e_fibonacci_series {
     public static void isFib(int n) {
         int a=0;
         int b=1;
