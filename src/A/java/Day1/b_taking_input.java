@@ -1,6 +1,6 @@
 package A.java.Day1;
 import java.util.*;
-public class taking_input {
+public class b_taking_input {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int n;

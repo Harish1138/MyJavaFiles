@@ -1,9 +1,8 @@
 package A.java.Day1;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class sum {
+public class d_sum {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int a;

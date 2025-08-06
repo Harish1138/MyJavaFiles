@@ -2,7 +2,7 @@ package A.java.Day1;
 
 import java.util.Scanner;
 
-public class table_of_n {
+public class e_table_of_n {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter the value of n: ");
