@@ -22,7 +22,7 @@ public class string2 {
         int wordsCount=new StringTokenizer(text).countTokens();
         System.out.println("Number of characters: "+charCount);
         System.out.println("Number of lines: "+lineCount);
-        System.out.println("Number of wors: "+wordsCount);
+        System.out.println("Number of words: "+wordsCount);
 
     }
 
