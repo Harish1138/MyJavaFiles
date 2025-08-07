@@ -1,0 +1,29 @@
+// It is mandatory to use Character & Byte
+
+
+Input 1 :
+w
+120
+
+Output 1 :
+Displaying values of Wrapper class objects:
+Character object: w
+Byte object: 120
+Displaying unwrapped values:
+char value: w
+byte value: 120
+
+
+Input 2 :
+a
+65
+
+
+Output 2 :
+Displaying values of Wrapper class objects:
+Character object: a
+Byte object: 65
+Displaying unwrapped values:
+char value: a
+byte value: 65
+Whitelist
