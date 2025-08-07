@@ -1,0 +1,28 @@
+Input 1 :
+23
+A
+
+
+Output 1 :
+Integer Value: 23
+Character Value: A
+
+
+Input 2 :
+23
+g
+
+
+Output 2 :
+Integer Value: 23
+Character Value: g
+
+
+Input 3 :
+6789
+P
+
+
+Output 3 :
+Integer Value: 6789
+Character Value: P
