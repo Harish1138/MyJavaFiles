@@ -1,0 +1,41 @@
+Input 1 :
+programming
+0 6
+
+
+Output 1 :
+p g
+program
+112 114 111 103 114 97 109 109 105 110 103
+p
+r
+o
+g
+r
+a
+m
+m
+i
+n
+g
+
+
+Input 2 :
+Helloworld
+3 7
+
+
+Output 2 :
+H d
+lowor
+72 101 108 108 111 119 111 114 108 100
+H
+e
+l
+l
+o
+w
+o
+r
+l
+d
