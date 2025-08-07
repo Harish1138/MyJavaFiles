@@ -1,0 +1,23 @@
+Input 1 :
+This is a test file
+It contains several lines
+and words for checking
+END
+
+
+Output 1 :
+Number of characters: 69
+Number of lines: 3
+Number of words: 13
+
+
+Input 2 :
+OpenAI creates models
+They help people
+END
+
+
+Output 2 :
+Number of characters: 39
+Number of lines: 2
+Number of words: 6
