@@ -1,3 +1,6 @@
+// To convert string uppercase to lowercase and vice versa
+
+
 import java.util.*;
 public class string_5 {
     public static void main(String[] args) {
@@ -20,3 +23,4 @@ public class string_5 {
         System.out.println(stb.toString());
     }
 }
+
